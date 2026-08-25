@@ -63,3 +63,14 @@ void loop() {
 
   delay(3000); // Wait 3 seconds before next transmission
 }
+
+
+
+
+
+---
+
+## Simulation Output
+Here is the live simulation running in Tinkercad, showing the transmitted secure packet frames and successfully decrypted sensor values via UART:
+
+<img width="1600" height="838" alt="WhatsApp Image 2026-08-25 at 12 28 13" src="https://github.com/user-attachments/assets/f2c1eac7-172c-4fc7-81fc-3288728be2b0" />
