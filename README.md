@@ -19,6 +19,13 @@ A microcontroller-based secure serial telemetry simulation designed to replicate
 
 ---
 
+## Simulation Output
+
+<img width="1912" height="1002" alt="Screenshot 2026-08-25 122815" src="https://github.com/user-attachments/assets/01b59fc0-9dea-4d2a-84dc-0daf34984835" />
+
+
+---
+
 ## Firmware Source Code
 
 ```cpp
@@ -64,9 +71,4 @@ void loop() {
   delay(3000); // Wait 3 seconds before next transmission
 }
 
----
-
-## Simulation Output
-
-<img width="1912" height="1002" alt="Screenshot 2026-08-25 122815" src="https://github.com/user-attachments/assets/01b59fc0-9dea-4d2a-84dc-0daf34984835" />
 
